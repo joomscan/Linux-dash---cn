@@ -1,6 +1,6 @@
 #Linux Dash(中文版)
 
-作者：幻灭</br>
+作者：Joomscan</br>
 修订时间：2015/10</br>
 
 修订记录：</br>
@@ -10,11 +10,6 @@
 
 申明：</br>
 本程序为开源软件Linux Dash优化调整而来，如有问题或意见反馈，请联系作者及时进行处理。QQ806148844。
-
-效果图：</br>
-![](http://www.yunweijob.com/dashimg/dash1.png)</br>
-![](http://www.yunweijob.com/dashimg/dash2.png)</br>
-![](http://www.yunweijob.com/dashimg/dash3.png)
 
 
 
